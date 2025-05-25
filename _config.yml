@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Coded by Hoa"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "A space to share the code I write, the tools I build, and the tech I’m curious about. From Java to AI to creative web experiments."
   links:
     - label: "Website"
