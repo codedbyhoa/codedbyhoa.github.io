@@ -1,9 +1,21 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  #- title: "Posts"
+  #  url: /posts/
+  #- title: "Categories"
+  #  url: /categories/
+  #- title: "Tags"
+  #  url: /tags/
+  - title: Home
+    url: /
+    external: false
+  - title: From Hoa
+    url: https://www.fromhoa.com
+    external: true
+  - title: Crafted by Hoa
+    url: https://www.craftedbyhoa.com
+    external: true
+  - title: "Contact"
+    url: /contact/
+    external: false
   - title: "About"
     url: /about/
